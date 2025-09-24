@@ -35,4 +35,4 @@ O objetivo é desenvolver um jogo da velha de 2 jogadores com a possibilidade de
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone 
+   git clone https://github.com/BrunoAnjos12-14i/Jogo-da-Velha.git
