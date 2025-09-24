@@ -35,4 +35,4 @@ O objetivo é desenvolver um jogo da velha de 2 jogadores com a possibilidade de
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/nomedoprojeto.git
+   git clone 
